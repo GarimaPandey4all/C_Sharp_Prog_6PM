@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\C#_Prog_August_6PM\VariableAndConstant\obj\Debug\net5.0\VariableAndConstant.csprojAssemblyReference.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\VariableAndConstant\obj\Debug\net5.0\VariableAndConstant.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\C#_Prog_August_6PM\VariableAndConstant\obj\Debug\net5.0\VariableAndConstant.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\VariableAndConstant\obj\Debug\net5.0\VariableAndConstant.AssemblyInfo.cs
+E:\Notes\Training\C#\C#_Prog_August_6PM\VariableAndConstant\obj\Debug\net5.0\VariableAndConstant.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\VariableAndConstant\bin\Debug\net5.0\VariableAndConstant.exe
+E:\Notes\Training\C#\C#_Prog_August_6PM\VariableAndConstant\bin\Debug\net5.0\VariableAndConstant.deps.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\VariableAndConstant\bin\Debug\net5.0\VariableAndConstant.runtimeconfig.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\VariableAndConstant\bin\Debug\net5.0\VariableAndConstant.runtimeconfig.dev.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\VariableAndConstant\bin\Debug\net5.0\VariableAndConstant.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\VariableAndConstant\bin\Debug\net5.0\ref\VariableAndConstant.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\VariableAndConstant\bin\Debug\net5.0\VariableAndConstant.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\VariableAndConstant\obj\Debug\net5.0\VariableAndConstant.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\VariableAndConstant\obj\Debug\net5.0\ref\VariableAndConstant.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\VariableAndConstant\obj\Debug\net5.0\VariableAndConstant.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\VariableAndConstant\obj\Debug\net5.0\VariableAndConstant.genruntimeconfig.cache

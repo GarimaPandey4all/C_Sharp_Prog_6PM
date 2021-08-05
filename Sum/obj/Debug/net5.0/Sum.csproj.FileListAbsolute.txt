@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\C#_Prog_August_6PM\Sum\bin\Debug\net5.0\Sum.exe
+E:\Notes\Training\C#\C#_Prog_August_6PM\Sum\bin\Debug\net5.0\Sum.deps.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\Sum\bin\Debug\net5.0\Sum.runtimeconfig.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\Sum\bin\Debug\net5.0\Sum.runtimeconfig.dev.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\Sum\bin\Debug\net5.0\Sum.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\Sum\bin\Debug\net5.0\ref\Sum.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\Sum\bin\Debug\net5.0\Sum.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\Sum\obj\Debug\net5.0\Sum.csprojAssemblyReference.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\Sum\obj\Debug\net5.0\Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\C#_Prog_August_6PM\Sum\obj\Debug\net5.0\Sum.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\Sum\obj\Debug\net5.0\Sum.AssemblyInfo.cs
+E:\Notes\Training\C#\C#_Prog_August_6PM\Sum\obj\Debug\net5.0\Sum.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\Sum\obj\Debug\net5.0\Sum.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\Sum\obj\Debug\net5.0\ref\Sum.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\Sum\obj\Debug\net5.0\Sum.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\Sum\obj\Debug\net5.0\Sum.genruntimeconfig.cache
