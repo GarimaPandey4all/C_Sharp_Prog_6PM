@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\C#_Prog_August_6PM\TypeConversions\bin\Debug\net5.0\TypeConversions.exe
+E:\Notes\Training\C#\C#_Prog_August_6PM\TypeConversions\bin\Debug\net5.0\TypeConversions.deps.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\TypeConversions\bin\Debug\net5.0\TypeConversions.runtimeconfig.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\TypeConversions\bin\Debug\net5.0\TypeConversions.runtimeconfig.dev.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\TypeConversions\bin\Debug\net5.0\TypeConversions.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\TypeConversions\bin\Debug\net5.0\ref\TypeConversions.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\TypeConversions\bin\Debug\net5.0\TypeConversions.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\TypeConversions\obj\Debug\net5.0\TypeConversions.csprojAssemblyReference.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\TypeConversions\obj\Debug\net5.0\TypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\C#_Prog_August_6PM\TypeConversions\obj\Debug\net5.0\TypeConversions.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\TypeConversions\obj\Debug\net5.0\TypeConversions.AssemblyInfo.cs
+E:\Notes\Training\C#\C#_Prog_August_6PM\TypeConversions\obj\Debug\net5.0\TypeConversions.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\TypeConversions\obj\Debug\net5.0\TypeConversions.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\TypeConversions\obj\Debug\net5.0\ref\TypeConversions.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\TypeConversions\obj\Debug\net5.0\TypeConversions.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\TypeConversions\obj\Debug\net5.0\TypeConversions.genruntimeconfig.cache
