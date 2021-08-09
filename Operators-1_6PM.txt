@@ -1,0 +1,85 @@
+Bitwise Operators:
+
+& - And, | - Or, ^ - X-Or, << - Left Shift, >> - Right Shift
+
+Bit/Binary - 2 - (0 or 1)
+1 byte = 8 bits
+
+Decimal to Binary Conversion
+
+.......,2 ^ 7,2 ^ 6,2 ^ 5,2 ^ 4,2 ^ 3,2 ^ 2,2 ^ 1,2 ^ 0
+	128    64    32	   16	  8	4      2    1
+
+c = 15 = 0000 1111
+
+a = 4 = 0000 0100
+b = 5 = 0000 0101 &
+	0000 0100 = 4
+
+OR - Inclusive OR
+
+a = 4 = 0000 0100
+b = 5 = 0000 0101 |
+	0000 0101 = 5
+
+X-OR, ^ - Exclusive OR
+
+0	
+0
+0
+
+1
+1
+0
+
+1
+0
+1
+
+0
+1
+1 
+
+a = 4 = 0000 0100
+b = 5 = 0000 0101 ^
+	0000 0001 = 1
+
+
+Left Shift, <<
+
+a << 1
+
+a = 4
+
+	0000 0100
+	0000 1000 = 8
+
+Shortcut Left Shift, <<
+
+a * 2 ^ 1
+= 4 * 2 = 8
+
+Right Shift, >>
+
+a >> 1
+
+a = 4
+
+	0000 0100
+	0000 0010 = 2
+
+Shortcut Right Shift, >>
+
+a / 2 ^ 1
+
+= 4 / 2 = 2
+
+
+
+
+
+
+
+
+
+
