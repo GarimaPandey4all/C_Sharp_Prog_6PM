@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\C#_Prog_August_6PM\AssignmentOperators\bin\Debug\net5.0\AssignmentOperators.exe
+E:\Notes\Training\C#\C#_Prog_August_6PM\AssignmentOperators\bin\Debug\net5.0\AssignmentOperators.deps.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\AssignmentOperators\bin\Debug\net5.0\AssignmentOperators.runtimeconfig.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\AssignmentOperators\bin\Debug\net5.0\AssignmentOperators.runtimeconfig.dev.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\AssignmentOperators\bin\Debug\net5.0\AssignmentOperators.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\AssignmentOperators\bin\Debug\net5.0\ref\AssignmentOperators.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\AssignmentOperators\bin\Debug\net5.0\AssignmentOperators.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\AssignmentOperators\obj\Debug\net5.0\AssignmentOperators.csprojAssemblyReference.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\AssignmentOperators\obj\Debug\net5.0\AssignmentOperators.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\C#_Prog_August_6PM\AssignmentOperators\obj\Debug\net5.0\AssignmentOperators.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\AssignmentOperators\obj\Debug\net5.0\AssignmentOperators.AssemblyInfo.cs
+E:\Notes\Training\C#\C#_Prog_August_6PM\AssignmentOperators\obj\Debug\net5.0\AssignmentOperators.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\AssignmentOperators\obj\Debug\net5.0\AssignmentOperators.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\AssignmentOperators\obj\Debug\net5.0\ref\AssignmentOperators.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\AssignmentOperators\obj\Debug\net5.0\AssignmentOperators.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\AssignmentOperators\obj\Debug\net5.0\AssignmentOperators.genruntimeconfig.cache
