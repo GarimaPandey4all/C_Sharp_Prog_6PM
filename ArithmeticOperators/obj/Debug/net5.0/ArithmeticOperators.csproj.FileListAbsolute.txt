@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\C#_Prog_August_6PM\ArithmeticOperators\bin\Debug\net5.0\ArithmeticOperators.exe
+E:\Notes\Training\C#\C#_Prog_August_6PM\ArithmeticOperators\bin\Debug\net5.0\ArithmeticOperators.deps.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\ArithmeticOperators\bin\Debug\net5.0\ArithmeticOperators.runtimeconfig.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\ArithmeticOperators\bin\Debug\net5.0\ArithmeticOperators.runtimeconfig.dev.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\ArithmeticOperators\bin\Debug\net5.0\ArithmeticOperators.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\ArithmeticOperators\bin\Debug\net5.0\ref\ArithmeticOperators.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\ArithmeticOperators\bin\Debug\net5.0\ArithmeticOperators.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\ArithmeticOperators\obj\Debug\net5.0\ArithmeticOperators.csprojAssemblyReference.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\ArithmeticOperators\obj\Debug\net5.0\ArithmeticOperators.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\C#_Prog_August_6PM\ArithmeticOperators\obj\Debug\net5.0\ArithmeticOperators.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\ArithmeticOperators\obj\Debug\net5.0\ArithmeticOperators.AssemblyInfo.cs
+E:\Notes\Training\C#\C#_Prog_August_6PM\ArithmeticOperators\obj\Debug\net5.0\ArithmeticOperators.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\ArithmeticOperators\obj\Debug\net5.0\ArithmeticOperators.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\ArithmeticOperators\obj\Debug\net5.0\ref\ArithmeticOperators.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\ArithmeticOperators\obj\Debug\net5.0\ArithmeticOperators.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\ArithmeticOperators\obj\Debug\net5.0\ArithmeticOperators.genruntimeconfig.cache

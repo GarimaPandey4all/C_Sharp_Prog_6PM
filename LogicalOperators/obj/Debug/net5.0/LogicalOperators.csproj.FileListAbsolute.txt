@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\C#_Prog_August_6PM\LogicalOperators\bin\Debug\net5.0\LogicalOperators.exe
+E:\Notes\Training\C#\C#_Prog_August_6PM\LogicalOperators\bin\Debug\net5.0\LogicalOperators.deps.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\LogicalOperators\bin\Debug\net5.0\LogicalOperators.runtimeconfig.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\LogicalOperators\bin\Debug\net5.0\LogicalOperators.runtimeconfig.dev.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\LogicalOperators\bin\Debug\net5.0\LogicalOperators.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\LogicalOperators\bin\Debug\net5.0\ref\LogicalOperators.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\LogicalOperators\bin\Debug\net5.0\LogicalOperators.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\LogicalOperators\obj\Debug\net5.0\LogicalOperators.csprojAssemblyReference.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\LogicalOperators\obj\Debug\net5.0\LogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\C#_Prog_August_6PM\LogicalOperators\obj\Debug\net5.0\LogicalOperators.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\LogicalOperators\obj\Debug\net5.0\LogicalOperators.AssemblyInfo.cs
+E:\Notes\Training\C#\C#_Prog_August_6PM\LogicalOperators\obj\Debug\net5.0\LogicalOperators.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\LogicalOperators\obj\Debug\net5.0\LogicalOperators.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\LogicalOperators\obj\Debug\net5.0\ref\LogicalOperators.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\LogicalOperators\obj\Debug\net5.0\LogicalOperators.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\LogicalOperators\obj\Debug\net5.0\LogicalOperators.genruntimeconfig.cache
