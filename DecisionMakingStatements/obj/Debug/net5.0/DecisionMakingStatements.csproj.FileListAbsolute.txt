@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\C#_Prog_August_6PM\DecisionMakingStatements\bin\Debug\net5.0\DecisionMakingStatements.exe
+E:\Notes\Training\C#\C#_Prog_August_6PM\DecisionMakingStatements\bin\Debug\net5.0\DecisionMakingStatements.deps.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\DecisionMakingStatements\bin\Debug\net5.0\DecisionMakingStatements.runtimeconfig.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\DecisionMakingStatements\bin\Debug\net5.0\DecisionMakingStatements.runtimeconfig.dev.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\DecisionMakingStatements\bin\Debug\net5.0\DecisionMakingStatements.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\DecisionMakingStatements\bin\Debug\net5.0\ref\DecisionMakingStatements.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\DecisionMakingStatements\bin\Debug\net5.0\DecisionMakingStatements.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\DecisionMakingStatements\obj\Debug\net5.0\DecisionMakingStatements.csprojAssemblyReference.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\DecisionMakingStatements\obj\Debug\net5.0\DecisionMakingStatements.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\C#_Prog_August_6PM\DecisionMakingStatements\obj\Debug\net5.0\DecisionMakingStatements.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\DecisionMakingStatements\obj\Debug\net5.0\DecisionMakingStatements.AssemblyInfo.cs
+E:\Notes\Training\C#\C#_Prog_August_6PM\DecisionMakingStatements\obj\Debug\net5.0\DecisionMakingStatements.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\DecisionMakingStatements\obj\Debug\net5.0\DecisionMakingStatements.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\DecisionMakingStatements\obj\Debug\net5.0\ref\DecisionMakingStatements.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\DecisionMakingStatements\obj\Debug\net5.0\DecisionMakingStatements.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\DecisionMakingStatements\obj\Debug\net5.0\DecisionMakingStatements.genruntimeconfig.cache

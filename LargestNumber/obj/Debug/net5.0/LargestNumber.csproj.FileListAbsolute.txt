@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\C#_Prog_August_6PM\LargestNumber\bin\Debug\net5.0\LargestNumber.exe
+E:\Notes\Training\C#\C#_Prog_August_6PM\LargestNumber\bin\Debug\net5.0\LargestNumber.deps.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\LargestNumber\bin\Debug\net5.0\LargestNumber.runtimeconfig.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\LargestNumber\bin\Debug\net5.0\LargestNumber.runtimeconfig.dev.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\LargestNumber\bin\Debug\net5.0\LargestNumber.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\LargestNumber\bin\Debug\net5.0\ref\LargestNumber.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\LargestNumber\bin\Debug\net5.0\LargestNumber.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\LargestNumber\obj\Debug\net5.0\LargestNumber.csprojAssemblyReference.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\LargestNumber\obj\Debug\net5.0\LargestNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\C#_Prog_August_6PM\LargestNumber\obj\Debug\net5.0\LargestNumber.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\LargestNumber\obj\Debug\net5.0\LargestNumber.AssemblyInfo.cs
+E:\Notes\Training\C#\C#_Prog_August_6PM\LargestNumber\obj\Debug\net5.0\LargestNumber.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\LargestNumber\obj\Debug\net5.0\LargestNumber.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\LargestNumber\obj\Debug\net5.0\ref\LargestNumber.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\LargestNumber\obj\Debug\net5.0\LargestNumber.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\LargestNumber\obj\Debug\net5.0\LargestNumber.genruntimeconfig.cache
