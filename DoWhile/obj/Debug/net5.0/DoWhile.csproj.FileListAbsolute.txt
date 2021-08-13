@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\C#_Prog_August_6PM\DoWhile\bin\Debug\net5.0\DoWhile.exe
+E:\Notes\Training\C#\C#_Prog_August_6PM\DoWhile\bin\Debug\net5.0\DoWhile.deps.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\DoWhile\bin\Debug\net5.0\DoWhile.runtimeconfig.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\DoWhile\bin\Debug\net5.0\DoWhile.runtimeconfig.dev.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\DoWhile\bin\Debug\net5.0\DoWhile.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\DoWhile\bin\Debug\net5.0\ref\DoWhile.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\DoWhile\bin\Debug\net5.0\DoWhile.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\DoWhile\obj\Debug\net5.0\DoWhile.csprojAssemblyReference.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\DoWhile\obj\Debug\net5.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\C#_Prog_August_6PM\DoWhile\obj\Debug\net5.0\DoWhile.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\DoWhile\obj\Debug\net5.0\DoWhile.AssemblyInfo.cs
+E:\Notes\Training\C#\C#_Prog_August_6PM\DoWhile\obj\Debug\net5.0\DoWhile.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\DoWhile\obj\Debug\net5.0\DoWhile.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\DoWhile\obj\Debug\net5.0\ref\DoWhile.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\DoWhile\obj\Debug\net5.0\DoWhile.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\DoWhile\obj\Debug\net5.0\DoWhile.genruntimeconfig.cache
