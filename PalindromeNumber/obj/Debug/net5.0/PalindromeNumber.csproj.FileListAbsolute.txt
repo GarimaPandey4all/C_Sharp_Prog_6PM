@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\C#_Prog_August_6PM\PalindromeNumber\bin\Debug\net5.0\PalindromeNumber.exe
+E:\Notes\Training\C#\C#_Prog_August_6PM\PalindromeNumber\bin\Debug\net5.0\PalindromeNumber.deps.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\PalindromeNumber\bin\Debug\net5.0\PalindromeNumber.runtimeconfig.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\PalindromeNumber\bin\Debug\net5.0\PalindromeNumber.runtimeconfig.dev.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\PalindromeNumber\bin\Debug\net5.0\PalindromeNumber.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\PalindromeNumber\bin\Debug\net5.0\ref\PalindromeNumber.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\PalindromeNumber\bin\Debug\net5.0\PalindromeNumber.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\PalindromeNumber\obj\Debug\net5.0\PalindromeNumber.csprojAssemblyReference.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\PalindromeNumber\obj\Debug\net5.0\PalindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\C#_Prog_August_6PM\PalindromeNumber\obj\Debug\net5.0\PalindromeNumber.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\PalindromeNumber\obj\Debug\net5.0\PalindromeNumber.AssemblyInfo.cs
+E:\Notes\Training\C#\C#_Prog_August_6PM\PalindromeNumber\obj\Debug\net5.0\PalindromeNumber.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\PalindromeNumber\obj\Debug\net5.0\PalindromeNumber.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\PalindromeNumber\obj\Debug\net5.0\ref\PalindromeNumber.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\PalindromeNumber\obj\Debug\net5.0\PalindromeNumber.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\PalindromeNumber\obj\Debug\net5.0\PalindromeNumber.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\C#_Prog_August_6PM\FactorialNumber\bin\Debug\net5.0\FactorialNumber.exe
+E:\Notes\Training\C#\C#_Prog_August_6PM\FactorialNumber\bin\Debug\net5.0\FactorialNumber.deps.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\FactorialNumber\bin\Debug\net5.0\FactorialNumber.runtimeconfig.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\FactorialNumber\bin\Debug\net5.0\FactorialNumber.runtimeconfig.dev.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\FactorialNumber\bin\Debug\net5.0\FactorialNumber.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\FactorialNumber\bin\Debug\net5.0\ref\FactorialNumber.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\FactorialNumber\bin\Debug\net5.0\FactorialNumber.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\FactorialNumber\obj\Debug\net5.0\FactorialNumber.csprojAssemblyReference.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\FactorialNumber\obj\Debug\net5.0\FactorialNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\C#_Prog_August_6PM\FactorialNumber\obj\Debug\net5.0\FactorialNumber.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\FactorialNumber\obj\Debug\net5.0\FactorialNumber.AssemblyInfo.cs
+E:\Notes\Training\C#\C#_Prog_August_6PM\FactorialNumber\obj\Debug\net5.0\FactorialNumber.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\FactorialNumber\obj\Debug\net5.0\FactorialNumber.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\FactorialNumber\obj\Debug\net5.0\ref\FactorialNumber.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\FactorialNumber\obj\Debug\net5.0\FactorialNumber.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\FactorialNumber\obj\Debug\net5.0\FactorialNumber.genruntimeconfig.cache

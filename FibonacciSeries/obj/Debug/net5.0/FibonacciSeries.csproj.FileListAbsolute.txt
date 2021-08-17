@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\C#_Prog_August_6PM\FibonacciSeries\bin\Debug\net5.0\FibonacciSeries.exe
+E:\Notes\Training\C#\C#_Prog_August_6PM\FibonacciSeries\bin\Debug\net5.0\FibonacciSeries.deps.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\FibonacciSeries\bin\Debug\net5.0\FibonacciSeries.runtimeconfig.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\FibonacciSeries\bin\Debug\net5.0\FibonacciSeries.runtimeconfig.dev.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\FibonacciSeries\bin\Debug\net5.0\FibonacciSeries.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\FibonacciSeries\bin\Debug\net5.0\ref\FibonacciSeries.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\FibonacciSeries\bin\Debug\net5.0\FibonacciSeries.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\FibonacciSeries\obj\Debug\net5.0\FibonacciSeries.csprojAssemblyReference.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\FibonacciSeries\obj\Debug\net5.0\FibonacciSeries.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\C#_Prog_August_6PM\FibonacciSeries\obj\Debug\net5.0\FibonacciSeries.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\FibonacciSeries\obj\Debug\net5.0\FibonacciSeries.AssemblyInfo.cs
+E:\Notes\Training\C#\C#_Prog_August_6PM\FibonacciSeries\obj\Debug\net5.0\FibonacciSeries.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\FibonacciSeries\obj\Debug\net5.0\FibonacciSeries.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\FibonacciSeries\obj\Debug\net5.0\ref\FibonacciSeries.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\FibonacciSeries\obj\Debug\net5.0\FibonacciSeries.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\FibonacciSeries\obj\Debug\net5.0\FibonacciSeries.genruntimeconfig.cache
