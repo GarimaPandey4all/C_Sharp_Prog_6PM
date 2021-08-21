@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\C#_Prog_August_6PM\Continue\bin\Debug\net5.0\Continue.exe
+E:\Notes\Training\C#\C#_Prog_August_6PM\Continue\bin\Debug\net5.0\Continue.deps.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\Continue\bin\Debug\net5.0\Continue.runtimeconfig.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\Continue\bin\Debug\net5.0\Continue.runtimeconfig.dev.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\Continue\bin\Debug\net5.0\Continue.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\Continue\bin\Debug\net5.0\ref\Continue.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\Continue\bin\Debug\net5.0\Continue.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\Continue\obj\Debug\net5.0\Continue.csprojAssemblyReference.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\Continue\obj\Debug\net5.0\Continue.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\C#_Prog_August_6PM\Continue\obj\Debug\net5.0\Continue.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\Continue\obj\Debug\net5.0\Continue.AssemblyInfo.cs
+E:\Notes\Training\C#\C#_Prog_August_6PM\Continue\obj\Debug\net5.0\Continue.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\Continue\obj\Debug\net5.0\Continue.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\Continue\obj\Debug\net5.0\ref\Continue.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\Continue\obj\Debug\net5.0\Continue.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\Continue\obj\Debug\net5.0\Continue.genruntimeconfig.cache

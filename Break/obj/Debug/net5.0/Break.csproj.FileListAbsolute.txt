@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\C#_Prog_August_6PM\Break\bin\Debug\net5.0\Break.exe
+E:\Notes\Training\C#\C#_Prog_August_6PM\Break\bin\Debug\net5.0\Break.deps.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\Break\bin\Debug\net5.0\Break.runtimeconfig.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\Break\bin\Debug\net5.0\Break.runtimeconfig.dev.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\Break\bin\Debug\net5.0\Break.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\Break\bin\Debug\net5.0\ref\Break.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\Break\bin\Debug\net5.0\Break.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\Break\obj\Debug\net5.0\Break.csprojAssemblyReference.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\Break\obj\Debug\net5.0\Break.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\C#_Prog_August_6PM\Break\obj\Debug\net5.0\Break.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\Break\obj\Debug\net5.0\Break.AssemblyInfo.cs
+E:\Notes\Training\C#\C#_Prog_August_6PM\Break\obj\Debug\net5.0\Break.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\Break\obj\Debug\net5.0\Break.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\Break\obj\Debug\net5.0\ref\Break.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\Break\obj\Debug\net5.0\Break.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\Break\obj\Debug\net5.0\Break.genruntimeconfig.cache
