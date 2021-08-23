@@ -1,0 +1,16 @@
+E:\Notes\Training\C#\C#_Prog_August_6PM\2DArray\obj\Debug\net5.0\2DArray.csprojAssemblyReference.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\2DArray\obj\Debug\net5.0\2DArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\Notes\Training\C#\C#_Prog_August_6PM\2DArray\obj\Debug\net5.0\2DArray.AssemblyInfoInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\2DArray\obj\Debug\net5.0\2DArray.AssemblyInfo.cs
+E:\Notes\Training\C#\C#_Prog_August_6PM\2DArray\obj\Debug\net5.0\2DArray.csproj.CoreCompileInputs.cache
+E:\Notes\Training\C#\C#_Prog_August_6PM\2DArray\bin\Debug\net5.0\2DArray.exe
+E:\Notes\Training\C#\C#_Prog_August_6PM\2DArray\bin\Debug\net5.0\2DArray.deps.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\2DArray\bin\Debug\net5.0\2DArray.runtimeconfig.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\2DArray\bin\Debug\net5.0\2DArray.runtimeconfig.dev.json
+E:\Notes\Training\C#\C#_Prog_August_6PM\2DArray\bin\Debug\net5.0\2DArray.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\2DArray\bin\Debug\net5.0\ref\2DArray.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\2DArray\bin\Debug\net5.0\2DArray.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\2DArray\obj\Debug\net5.0\2DArray.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\2DArray\obj\Debug\net5.0\ref\2DArray.dll
+E:\Notes\Training\C#\C#_Prog_August_6PM\2DArray\obj\Debug\net5.0\2DArray.pdb
+E:\Notes\Training\C#\C#_Prog_August_6PM\2DArray\obj\Debug\net5.0\2DArray.genruntimeconfig.cache
